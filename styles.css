@@ -232,7 +232,7 @@ button:active {
 
 #highlights:before,
 #highlights:after {
-    background: url("../assets__one/wave.svg");
+    background: url("assets__one/wave.svg");
     content: "";
     position: absolute;
     width: 101vw;
